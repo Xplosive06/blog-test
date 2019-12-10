@@ -1,0 +1,22 @@
+.blog-container {
+  margin: 30px;
+  border: #f1f1f1 solid 2px;
+}
+
+.blog-title {
+  font-size: 35px;
+  background-color: black;
+  color: white;
+}
+
+.blog-content {
+  padding: 20px 5px;
+}
+
+.author-and-created {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px 5px;
+  background-color: #555555;
+  color: white;
+}

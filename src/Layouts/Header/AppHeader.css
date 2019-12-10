@@ -1,0 +1,17 @@
+.containerHeader {
+  background-color: black;
+  display: flex;
+  justify-content: space-evenly;
+  height: auto;
+  margin: auto;
+  padding: 10px;
+}
+
+.titleHeader {
+  color: white;
+  margin: auto;
+}
+
+.imgHeader {
+  margin: auto;
+}
